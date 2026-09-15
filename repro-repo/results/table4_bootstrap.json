@@ -1,0 +1,26 @@
+{
+  "panns": {
+    "inflation": 0.007,
+    "ci_lo": -0.023,
+    "ci_hi": 0.035,
+    "significant": "No"
+  },
+  "ast": {
+    "inflation": 0.013,
+    "ci_lo": 0.002,
+    "ci_hi": 0.024,
+    "significant": "Yes"
+  },
+  "beats": {
+    "inflation": 0.02,
+    "ci_lo": -0.009,
+    "ci_hi": 0.049,
+    "significant": "No"
+  },
+  "wav2vec2": {
+    "inflation": 0.068,
+    "ci_lo": 0.023,
+    "ci_hi": 0.107,
+    "significant": "Yes"
+  }
+}

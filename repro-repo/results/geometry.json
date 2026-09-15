@@ -1,0 +1,26 @@
+{
+  "panns": {
+    "sep_ratio": 0.431,
+    "eff_rank": 875.6,
+    "n_clips": 7157,
+    "dim": 2048
+  },
+  "ast": {
+    "sep_ratio": 0.647,
+    "eff_rank": 464.5,
+    "n_clips": 7157,
+    "dim": 768
+  },
+  "beats": {
+    "sep_ratio": 0.492,
+    "eff_rank": 398.7,
+    "n_clips": 7157,
+    "dim": 768
+  },
+  "wav2vec2": {
+    "sep_ratio": 0.335,
+    "eff_rank": 292.2,
+    "n_clips": 7157,
+    "dim": 768
+  }
+}

@@ -1,0 +1,15 @@
+# Pinned environment that reproduces the reported numbers (Python 3.11).
+# The Transformers pin is load-bearing: it fixes the wav2vec 2.0 embeddings.
+torch==2.10.0
+transformers==5.13.1
+scikit-learn==1.6.1
+scipy==1.16.3
+pingouin==0.6.1
+statsmodels==0.14.6
+# unpinned (any recent version is fine):
+numpy
+pandas
+librosa
+soundfile
+matplotlib
+panns-inference
