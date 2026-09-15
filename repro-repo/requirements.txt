@@ -1,4 +1,4 @@
-# Pinned environment that reproduces the reported numbers (Python 3.11).
+# Pinned environment that reproduces the reported numbers (Python 3.12.13).
 # The Transformers pin is load-bearing: it fixes the wav2vec 2.0 embeddings.
 torch==2.10.0
 transformers==5.13.1
