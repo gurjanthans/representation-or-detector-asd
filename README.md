@@ -24,7 +24,7 @@ This repository regenerates **every table and figure** in the paper from one not
 
 ## Environment
 
-The reported numbers were produced with **Python 3.11** and the versions in `requirements.txt`
+The reported numbers were produced with **Python 3.12.13** and the versions in `requirements.txt`
 (PyTorch 2.10.0, HuggingFace Transformers **5.13.1**, scikit-learn 1.6.1, SciPy 1.16.3, Pingouin 0.6.1)
 on an NVIDIA T4 GPU.
 
